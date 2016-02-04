@@ -1,19 +1,9 @@
-# JSON Restful JSON API
+# Example 9
 
-This code repository hosts the examples used in the following [The New Stack](http://thenewstack.io/make-a-restful-json-api-go/) article.
+## Running the exmaple
 
-
-## Running Examples
-
-To run exmaples, from the root of this project (change the version as needed):
+To run this exmaple, from the root of this project:
 
 ```sh
-# Run example 1
-go run ./v1/*.go
+go run ./v9/*.go
 ```
-
-```sh
-# Run example 2
-go run ./v2/*.go
-```
-
